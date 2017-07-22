@@ -82,7 +82,7 @@ html::selection{
 }
 .line{
 	position: absolute;
-	top: 710px;
+	top: 745px;
 	left: 630px;
 	width: 53px;
 	height: 3px;
@@ -133,7 +133,7 @@ html::selection{
 }
 .line-two{
 	position: absolute;
-	top: 1050px;
+	top: 1085px;
 	left: 615px;
 	width: 90px;
 	height: 3px;
