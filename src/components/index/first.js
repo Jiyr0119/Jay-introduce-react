@@ -30,9 +30,7 @@ export default class FirstComponent extends React.Component {
 				</div>
 				<p className="exercise-item">react小项目</p>
 				<Link to="/index" className="react-checkout">查看</Link>
-				<div className="line-three"></div>
-				<div className="line"></div>
-				<div className="line-two"></div>
+				
 			</div>
 		)
 	}
