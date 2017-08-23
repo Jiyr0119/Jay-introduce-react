@@ -19,7 +19,6 @@ class ContentComponent extends React.Component {
 		})
 	}
 	
-	
 	handleLeftClick(){
 		var move = this.props.move;
 		move.push(move.shift())
